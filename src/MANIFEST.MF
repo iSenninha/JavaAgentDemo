@@ -1,0 +1,3 @@
+manifest-Version: 1.0
+Agent-Class: com.senninha.agent.SetParam
+Created-By: 1.8.0_144
