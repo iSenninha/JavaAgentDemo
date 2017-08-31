@@ -4,12 +4,14 @@
 
 - 导入jar包
 
+  >```
   > <dependency>
   >     <groupId>io.earcam.wrapped</groupId>
   >     <artifactId>com.sun.tools.attach</artifactId>
   >     <version>1.8.0_jdk8u131-b11</version>
-  > </dependency>)
-  >
+  > </dependency>
+  >```
+  
   > 不是maven项目就去中央仓库下一个。。
 
 
